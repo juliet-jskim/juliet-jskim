@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello!👋 I'm Juliet 👩🏻‍💻</h2>
+<p align='center'>
+  A designer and developer from Vancouver 🇨🇦
+</p>
 <p align="center">
   <h3> 📫 How to reach me: </h3>
   <a href="https://www.linkedin.com/in/julietjskim/">
@@ -53,24 +56,59 @@ Here are some ideas to get you started:
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   <img alt="Framer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>
   <img alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <br>
-  <img alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 </div>
 </p>
 
 <p align='center'>
-<h3> 🖥️ Code </h3>
+<h3> 🖥️ Development </h3>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<img alt="Chart" src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-<img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
-<img alt="Next.JS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
-<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="leaflet" src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"/>
-<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<div>
+  <img alt="Chart" src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img alt="Next.JS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="leaflet" src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"/>
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>  
+</div>
 </p>
+
+<details>
+  <summary>📃 Resume</summary>
+
+## Education
+
+- 📖 **Digital Design and Development**\
+📆 2022 - 2024\
+📍 **British Columbia Institute of Technology** - BC, Canada
+
+## Experience 
+
+<img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+
+
+- 👨‍💻 **Frontend Developer**\
+📆 2024 - Current\
+📍 **Orbit** - Vancouver
+
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **Lead Designer**\
+📆 September 2023 - November 2023\
+📍 **Spurt** - Vancouver
+
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **Digital Illustrator & Motion Designer**\
+📆 Current\
+📍 **Freelance** - Vancouver
+
+</details>
