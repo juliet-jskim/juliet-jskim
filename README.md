@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 
 <h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello!👋 I'm Juliet 👩🏻‍💻</h2>
 <p align="center">
-<!--   <a href="https://www.youtube.com/channel/UCn2VFm7Fkd9cuSD6GIJw6mw?sub_confirmation=1">
-  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/>
-  </a> -->
   <h3> 📫 How to reach me: </h3>
   <a href="https://www.linkedin.com/in/julietjskim/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -26,8 +23,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/juliet-jskim">
   <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/juliet-jskim?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/></a>
 
-  <a href="mailto:juliet.js.kim@gmail.com">Email me</a>
-  <img alt="linkedin" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:juliet.js.kim@gmail.com">
+  <img alt="linkedin" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
   <a href="https://juliet-kim.vercel.app/">
   <img alt="portfolio link" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
