@@ -19,28 +19,25 @@ Here are some ideas to get you started:
   <h3> 📫 How to reach me: </h3>
   <a href="https://www.linkedin.com/in/julietjskim/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
   <a href="https://github.com/juliet-jskim">
   <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/juliet-jskim?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/></a>
-
   <a href="mailto:juliet.js.kim@gmail.com">
   <img alt="linkedin" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://juliet-kim.vercel.app/">
   <img alt="portfolio link" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <br><br>
 </p>
 
-<h2 align='left'> 🚀 Quick Stats </h2>
+<h2 align='center'> 🚀 Quick Stats </h2>
 <div>
 <!-- <img src='https://github-readme-stats.vercel.app/api?username=juliet-jskim&show_icons=true&theme=radical&hide=contribs' height='150"'> -->
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=juliet-jskim&layout=compact&theme=radical' height='150"'>
 </div>
 <br>
 
-<h2 align='left'> 🔨 Technologies & Tools </h2>
+<h2 align='center'> 🔨 Technologies & Tools </h2>
 <p>
 <br>
 <h3> 🖌️ Design </h3>
@@ -59,7 +56,7 @@ Here are some ideas to get you started:
 <img alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 </p>
 
-<p>
+<p align='center'>
 <h3> 🖥️ Code </h3>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
