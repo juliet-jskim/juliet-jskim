@@ -14,24 +14,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Juliet</h2>
+<h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello!👋 I'm Juliet 👩🏻‍💻</h2>
 <p align="center">
 <!--   <a href="https://www.youtube.com/channel/UCn2VFm7Fkd9cuSD6GIJw6mw?sub_confirmation=1">
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCn2VFm7Fkd9cuSD6GIJw6mw?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/>
   </a> -->
-
+  <h3> 📫 How to reach me: </h3>
   <a href="https://www.linkedin.com/in/julietjskim/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="https://github.com/juliet-jskim">
   <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/juliet-jskim?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/></a>
 
+  <a href="mailto:juliet.js.kim@gmail.com">Email me</a>
+  <img alt="linkedin" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+  <a href="https://juliet-kim.vercel.app/">
+  <img alt="portfolio link" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
   <br><br>
 </p>
 
 <h2 align='left'> 🚀 Quick Stats </h2>
 <div>
-<img src='https://github-readme-stats.vercel.app/api?username=juliet-jskim&show_icons=true&theme=radical&hide=contribs' height='150"'>
+<!-- <img src='https://github-readme-stats.vercel.app/api?username=juliet-jskim&show_icons=true&theme=radical&hide=contribs' height='150"'> -->
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=juliet-jskim&layout=compact&theme=radical' height='150"'>
 </div>
 <br>
@@ -39,30 +45,35 @@ Here are some ideas to get you started:
 <h2 align='left'> 🔨 Technologies & Tools </h2>
 <p>
 <br>
-<!-- <img align='right' src='./media/octocat_bsod.png' width='200"'> -->
-<!-- <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> -->
-<!-- <a href="https://github.com/search?q=user%3A3ATrevisanGMW+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a> -->
-<a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<!-- <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
-<!-- <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"></a> -->
-<a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<!-- <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a> -->
-<a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-<!-- <a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Aqt"><img alt="SQL" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white"></a> -->
+<h3> 🖌️ Design </h3>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="After effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
+<img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+<img alt="InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/>
+<img alt="LightRoom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
+<img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black "/>
+<img alt="Premiere pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="Framer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>
+<img alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <br>
+<img alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 </p>
+
 <p>
-<!-- <a href="#"><img alt="Maya" src="https://img.shields.io/static/v1?message=Maya&color=088389&logo=Autodesk&logoColor=FFFFFF&label="></a>
-<a href="#"><img alt="Houdini" src="https://img.shields.io/static/v1?message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="></a>
-<a href="#"><img alt="Unity" src="https://img.shields.io/static/v1?message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label="></a> -->
+<h3> 🖥️ Code </h3>
+<a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ATrevisanGMW+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<!-- <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a> -->
-<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<!-- <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-<a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi"></a>
-<br> -->
-</p>
-<p>
-<a href="#"><img alt="Visitors Counter" src="https://api.visitorbadge.io/api/visitors?path=juliet-jskim&countColor=%23263759"></a>
+<img alt="Chart" src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img alt="Expo" src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
+<img alt="Next.JS" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="leaflet" src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white"/>
+<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
